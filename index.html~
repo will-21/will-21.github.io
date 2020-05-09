@@ -48,7 +48,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/code-1076536_1920(2).jpg" alt="" />
+									<img src="images/banner.jpg" alt="" />
 								</div>
 								<div class="container">
 									<header class="major">
@@ -80,28 +80,28 @@
 									<p>Click on the links below to view my blog posts, podcast, and video!</p>
 									<div class="features">
 										<article>
-											<a href="#" class="image"><img src="images/typewriter-801921_1920(1).jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 											<div class="inner">
 												<h4><a href = "https://medium.com/@will21/when-reading-less-teaches-you-more-d6d3773e1cfd">Blog post: When reading less teaches you more</a></h4>
 												<p>In this blog post, I briefly examine how to combat information clutter by finding sources that efficiently convey ideas.</p>
 											</div>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/motor-768750_1920(1).jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
 											<div class="inner">
 												<h4><a href = "https://medium.com/@will21/get-rid-of-that-check-engine-light-once-and-for-all-9c5f771101a8" >Blog post: Get rid of that check engine light once and for all</a></h4>
 												<p>This blog post discusses how to learn simple car maintenance that can save drivers money.</p>
 											</div>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/video-controller-336657_1920(1).jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
 											<div class="inner">
 												<h4><a href = "https://soundcloud.com/user-892170295-3005879/lyrebirds-podcast">Lyrebirds Podcast: Effect of coronavirus on video games</a></h4>
 												<p>The Lyrebirds group's podcast discusses how the video game industry has been impacted by the coronavius pandemic. We discuss how video games have been endorsed by the World Health Organization as a healthy activity, the impact of coronavirus on Nintendo game sales, and how companies such as Microsoft and Sony have adapted to launch events for new consoles.</p>
 											</div>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/linux-4259595_1920(1).jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 											<div class="inner">
 												<h4><a href = "https://www.youtube.com/watch?v=VzZJ-h-e1DI">Video: How to install mGBA emulator on Linux</a></h4>
 												<p>If you use Linux and are interested in playing GameBoy Advance games, this easy-to-follow video guide will show you how to set up a GBA emulator in under 5 minutes.</p>
